@@ -10,4 +10,4 @@ Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ip
 
 [Click here](https://google.com)
 and
-[Click here](https://
+[Click here](https://google.de)
